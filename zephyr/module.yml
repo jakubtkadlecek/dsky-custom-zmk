@@ -1,3 +1,4 @@
+name: zmk-keyboard-dsky
 build:
   settings:
     board_root: .
