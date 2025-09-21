@@ -6,13 +6,10 @@
         compatible = "zmk,keymap";
         default {
             bindings = <
-                //  7       8           9
                 &kp Q       &kp W       &kp E
-                //  4       5           6
                 &kp A       &kp S       &kp D
-                //  1       2           3
                 &kp Z       &kp X       &kp C
             >;
         };
-    }
+    };
 };
